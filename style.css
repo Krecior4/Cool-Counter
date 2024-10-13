@@ -56,3 +56,9 @@ button {
     cursor: pointer;
     margin: 15px;
 }
+
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100vw;
+}
